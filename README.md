@@ -7,7 +7,7 @@ Web Develper
 I've been diving into web Development field for 4 years and I'm really passionate about keeping in track with the technology I've learned and excited to learn new skills.
 
 * 🌍  I'm based in İstanbul, Türkiye
-* 🖥️  See my portfolio at [Tareq](http://Tareq.com)
+* 🖥️  See my portfolio at [Tareq](http://Tareqharh.com)
 * ✉️  You can contact me at [tareq310harh@gmail.com](mailto:tareq310harh@gmail.com)
 * 🚀  I'm currently working on [Cooklink](http://github.com/OmarQaqish/cook-link)
 * 🧠  I'm learning React JS
