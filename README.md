@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tareq
 =============================================================================================================================
 
-Web Develper
+Web Develpor
 ------------
 
 I've been diving into web Development field for 4 years and I'm really passionate about keeping in track with the technology I've learned and excited to learn new skills.
