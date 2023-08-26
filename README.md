@@ -11,7 +11,6 @@ I've been diving into web Development field for 4 years and I'm really passionat
 * ✉️  You can contact me at [tareq310harh@gmail.com](mailto:tareq310harh@gmail.com)
 * 🚀  I'm currently working on [Cooklink](http://github.com/OmarQaqish/cook-link)
 * 🧠  I'm learning React JS
-* ⚡  I'm NOT a spiderman but I like spiders
 
 ### Socials
 
