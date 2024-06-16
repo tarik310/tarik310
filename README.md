@@ -1,16 +1,16 @@
-Hi ! My name is Tareq
+Hi! My name is Tareq
 =============================================================================================================================
 
-Web Develpor
+Full-stack Developer
 ------------
 
-I've been diving into web Development field for 4 years and I'm really passionate about keeping in track with the technology I've learned and excited to learn new skills.
+Full-stack developer with extensive experience in building and maintaining web applications using modern web technologies. Proven track record of developing single-page applications and implementing innovative solutions to enhance user experience and meet customers’ needs.
 
 * 🌍  I'm based in İstanbul, Türkiye
-* 🖥️  See my portfolio at [Tareq](http://Tareqharh.com)
+* 🖥️  See my portfolio at [Portfolio Website](https://tareq-harh.vercel.app/)
 * ✉️  You can contact me at [tareq310harh@gmail.com](mailto:tareq310harh@gmail.com)
-* 🚀  I'm currently working on My Portfolio Website
-* 🧠  I'm learning React JS
+* 🚀  I'm currently working on C** V*
+* 🧠  I'm learning Nest JS
 
 ### Socials
 
